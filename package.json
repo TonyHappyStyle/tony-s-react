@@ -1,0 +1,12 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "My New Project description.",
+  "main": "index.js",
+  "repository": {
+      "url": "https://example.com/your-username/my-new-project",
+      "type":"git"
+  },
+  "author": "Tony yang <tonyhappystyle@163.com>",
+  "license": "MIT"
+}
